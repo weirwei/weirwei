@@ -17,6 +17,9 @@
 
 <!-- ======================================= -->
 
+##### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)](https://github.com/weirwei/github-readme-stats)
+
 ##### GitHub status
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=weirwei&theme=github)
