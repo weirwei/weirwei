@@ -1,7 +1,7 @@
 <h3>
-  <img src="https://media.giphy.com/media/wEGlPzCNOLcRY07JFW/giphy.gif" width="25" alt="拍手">
-  Hi there! I'm weirwei~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" alt="Hi" width="30" />
+  Hi there! I'm weirwei~ 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="25" alt="拍手">
 </h3>
 
 <!-- ======================================= -->
@@ -30,4 +30,4 @@
 
 ##### Some repo 
 
-* [ikit](https://github.com/weirwei.ikit)：🛠️A slight golang lib.(golang 基础功能库)🧰  [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) [![](https://img.shields.io/github/go-mod/go-version/weirwei/ikit)](https://github.com/weirwei/ikit)_
+* [ikit](https://github.com/weirwei.ikit)：🧰 A slight golang lib.(golang 基础功能库) [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) [![](https://img.shields.io/github/go-mod/go-version/weirwei/ikit)](https://github.com/weirwei/ikit)
