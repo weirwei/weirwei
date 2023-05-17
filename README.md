@@ -14,7 +14,7 @@
 
 <!-- ======================================= -->
 ![](https://img.shields.io/badge/-golang-lightgrey?logo=go&labelColor=white&logoColor=blue)
-![](https://img.shields.io/badge/-mysql-white?logo=mysql&labelColor=00A1D6&logoColor=white)
+![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)
 ![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)
 
 <!-- ======================================= -->
