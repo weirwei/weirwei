@@ -1,12 +1,12 @@
 <h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
+  <img src="https://media.giphy.com/media/wEGlPzCNOLcRY07JFW/giphy.gif" width="25" alt="拍手">
   Hi there! I'm weirwei~ 
-  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" alt="Hi" width="30" />
 </h3>
 
 <!-- ======================================= -->
 
-* 😄Read more about my [cnblog](https://www.cnblogs.com/weirwei/)
+* Read more about my [cnblog](https://www.cnblogs.com/weirwei/)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
@@ -30,4 +30,4 @@
 
 ##### Some repo 
 
-* [ikit](https://github.com/weirwei.ikit)：🛠️An awesome terminal cli toolkit.(golang 基础功能库)🧰  [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) 
+* [ikit](https://github.com/weirwei.ikit)：🛠️A slight golang lib.(golang 基础功能库)🧰  [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) [![](https://img.shields.io/github/go-mod/go-version/weirwei/ikit)](https://github.com/weirwei/ikit)_
