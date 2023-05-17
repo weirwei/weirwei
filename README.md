@@ -18,14 +18,13 @@
 <!-- ======================================= -->
 
 ##### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)](https://github.com/weirwei/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)
 
 ##### GitHub status
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=weirwei&theme=github)
+![weirwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirwei&show_icons=true)
 
 <!--
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=weirwei&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=weirwei&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
 
