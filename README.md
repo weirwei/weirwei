@@ -13,17 +13,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+man+can+die+but+once.)
 
 <!-- ======================================= -->
-![](https://img.shields.io/badge/-golang-lightgrey?logo=go&labelColor=white&logoColor=blue)\n
-![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)\n
-![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)\n
-![](https://img.shields.io/badge/-git-lightgrey?style=&logo=git&labelColor=white&logoColor=orange)\n
+![](https://img.shields.io/badge/-golang-lightgrey?logo=go&labelColor=white&logoColor=blue)
+![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)
+![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)
+![](https://img.shields.io/badge/-git-lightgrey?style=&logo=git&labelColor=white&logoColor=orange)
 <!-- ======================================= -->
 
 ##### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)
-
-##### GitHub status
 ![weirwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirwei&show_icons=true)
+##### GitHub status
+
 
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=weirwei&theme=github)
