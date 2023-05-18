@@ -13,10 +13,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+man+can+die+but+once.)
 
 <!-- ======================================= -->
-![](https://img.shields.io/badge/-golang-lightgrey?logo=go&labelColor=white&logoColor=blue)
-![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)
-![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)
-
+![](https://img.shields.io/badge/-golang-lightgrey?logo=go&labelColor=white&logoColor=blue)\n
+![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)\n
+![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)\n
+![](https://img.shields.io/badge/-git-lightgrey?style=&logo=git&labelColor=white&logoColor=orange)\n
 <!-- ======================================= -->
 
 ##### Language
