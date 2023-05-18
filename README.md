@@ -19,11 +19,10 @@
 ![](https://img.shields.io/badge/-git-lightgrey?style=&logo=git&labelColor=white&logoColor=orange)
 <!-- ======================================= -->
 
-##### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)
-![weirwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirwei&show_icons=true)
 ##### GitHub status
 
+![weirwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirwei&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirwei&layout=compact)
 
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=weirwei&theme=github)
