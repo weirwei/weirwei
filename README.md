@@ -6,7 +6,7 @@
 
 <!-- ======================================= -->
 
-* Read more about my [cnblog](https://www.cnblogs.com/weirwei/)
+* Read more about my [cnblog](https://www.cnblogs.com/weirwei/) or [浩雨未倾](https://blog.weirwei.cn/)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
