@@ -39,4 +39,4 @@
 ##### Some repo 
 
 * [ikit](https://github.com/weirwei.ikit)：🧰 A slight golang lib.(golang 基础功能库) [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) [![](https://img.shields.io/github/go-mod/go-version/weirwei/ikit)](https://github.com/weirwei/ikit)
-* [itool](https://github.com/weirwei.itools)：🛠️ Golang cmd tools.(golang 命令行工具) [![](https://img.shields.io/github/stars/weirwei/itools)](https://github.com/weirwei/itools) [![](https://img.shields.io/github/go-mod/go-version/weirwei/itools)](https://github.com/weirwei/itools)
+* [itool](https://github.com/weirwei.itools)：🛠️ Golang cmd tools.(golang 命令行工具) [![](https://img.shields.io/github/stars/weirwei/itools)](https://github.com/weirwei/itools)
