@@ -17,8 +17,11 @@
 ![](https://img.shields.io/badge/-mysql-lightgrey?logo=mysql&labelColor=white&logoColor=blue)
 ![](https://img.shields.io/badge/-redis-lightgrey?logo=redis&labelColor=white&logoColor=red)
 ![](https://img.shields.io/badge/-git-lightgrey?style=&logo=git&labelColor=white&logoColor=orange)
+![](https://img.shields.io/badge/-MQ-lightgrey?style=&logo=apacherocketmq&labelColor=white&logoColor=orange)
+![]
 <br/>
 ![](https://img.shields.io/badge/-goland-lightgrey?style=&logo=goland&labelColor=white&logoColor=black)
+![](https://img.shields.io/badge/-vsocde-lightgrey?style=&logo=vega&labelColor=white&logoColor=blue)
 <!-- ======================================= -->
 
 ##### GitHub status
@@ -36,3 +39,4 @@
 ##### Some repo 
 
 * [ikit](https://github.com/weirwei.ikit)：🧰 A slight golang lib.(golang 基础功能库) [![](https://img.shields.io/github/stars/weirwei/ikit)](https://github.com/weirwei/ikit) [![](https://img.shields.io/github/go-mod/go-version/weirwei/ikit)](https://github.com/weirwei/ikit)
+* [itool](https://github.com/weirwei.itools)：🛠️ Golang cmd tools.(golang 命令行工具) [![](https://img.shields.io/github/stars/weirwei/itools)](https://github.com/weirwei/itools) [![](https://img.shields.io/github/go-mod/go-version/weirwei/itools)](https://github.com/weirwei/itools)
